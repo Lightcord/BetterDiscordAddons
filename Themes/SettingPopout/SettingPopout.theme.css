@@ -1,0 +1,20 @@
+/**
+ * @name Popup settings
+ * @description3 Makes the settings appear as a popup.
+ * @author Not Thomiz (Lightcord)
+ * @version AutoUpdate
+ * @invite 7eFff2A
+ * @source https://github.com/Lightcord/BetterDiscordAddons/master/tree/Themes/SettingPopout/SettingPopout.theme.css
+ * @donate https://paypal.me/jenwina
+ * @authorLink http://github.com/Lightcord/BetterDiscordAddons
+ */
+
+@import url("https://cdn.jsdelivr.net/gh/Lightcord/BetterDiscordAddons/Themes/SettingPopout/SettingPopout.theme.css");
+
+/** Settings */
+:root {
+    /** Title of the popout */
+    --setting-popout-title: "App Settings";
+    /** Title font */
+    --setting-popout-font: "Whitney,Helvetica Neue,Helvetica,Arial,sans-serif";
+}

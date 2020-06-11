@@ -1,0 +1,31 @@
+:root {
+    --setting-popout-title: "App Settings";
+
+    --setting-popout-font: "Whitney,Helvetica Neue,Helvetica,Arial,sans-serif";
+}
+
+@media only screen and (min-width: 1280px) {
+    #user-settings {
+        top: 150px;
+        right: 300px;
+        left: 300px;
+        bottom: 150px;
+        padding-top: 0px;
+    }
+    #user-settings:before {
+        color: var(--text-normal);
+        content: var(--setting-popout-title);
+        font-weight: 600;
+        font-family: var(--setting-popout-font);
+        padding-left: 10px;
+        padding-top: 2px;
+    }
+    
+    .baseLayer-35bLyl.stop-animations, .baseLayer-35bLyl.animating-rRxada {
+        transform: none !important;
+        pointer-events: none;
+    }
+    .baseLayer-35bLyl.stop-animations {
+        opacity: 20% !important;
+    }
+}
