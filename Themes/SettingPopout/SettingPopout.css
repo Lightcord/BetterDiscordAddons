@@ -1,7 +1,7 @@
 :root {
     --setting-popout-title: "App Settings";
 
-    --setting-popout-font: "Whitney,Helvetica Neue,Helvetica,Arial,sans-serif";
+    --setting-popout-font: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 @media only screen and (min-width: 1280px) {
