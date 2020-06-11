@@ -16,5 +16,5 @@
     /** Title of the popout */
     --setting-popout-title: "App Settings";
     /** Title font */
-    --setting-popout-font: "Whitney,Helvetica Neue,Helvetica,Arial,sans-serif";
+    --setting-popout-font: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
