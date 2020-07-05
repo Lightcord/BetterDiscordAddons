@@ -1,11 +1,11 @@
 :root {
     --setting-popout-title: "App Settings";
-
+    --guild-setting-popout-title: "Server Settings";
     --setting-popout-font: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 @media only screen and (min-width: 1400px) {
-    #user-settings {
+    #user-settings, #server-settings {
         top: 150px;
         right: 300px;
         left: 300px;
@@ -15,6 +15,13 @@
     #user-settings:before {
         color: var(--text-normal);
         content: var(--setting-popout-title);
+        font-weight: 600;
+        font-family: var(--setting-popout-font);
+        padding-left: 10px;
+        padding-top: 2px;
+    }#server-settings:before {
+        color: var(--text-normal);
+        content: var(--guild-setting-popout-title);
         font-weight: 600;
         font-family: var(--setting-popout-font);
         padding-left: 10px;
