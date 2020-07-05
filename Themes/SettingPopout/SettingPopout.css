@@ -23,7 +23,7 @@
         color: var(--text-normal);
         content: var(--guild-setting-popout-title);
         font-weight: 600;
-        font-family: var(--guild-setting-popout-font);
+        font-family: var(--setting-popout-font);
         padding-left: 10px;
         padding-top: 2px;
     }
