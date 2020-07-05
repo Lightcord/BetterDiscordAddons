@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/discord/705908350218666117?logo=discord&style=flat-square&color=%237289DA)](https://discord.gg/7eFff2A)
 ---
 # BetterDiscordAddons
-This is a repo containing all addons made by [Lightcord](https://github.com/Lightcord/Lightcord]'s developpers.
+This is a repo containing all addons made by [Lightcord](https://github.com/Lightcord/Lightcord)'s developpers.
 
 # Theme List
 
