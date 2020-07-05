@@ -9,7 +9,7 @@
  * @authorLink http://github.com/Lightcord/BetterDiscordAddons
  */
 
-@import url("https://cdn.jsdelivr.net/gh/Lightcord/BetterDiscordAddons/Themes/SettingPopout/SettingPopout.css");
+@import url("https://cdn.jsdelivr.net/gh/Lightcord/BetterDiscordAddons@latest/Themes/SettingPopout/SettingPopout.css");
 
 /** Settings */
 :root {
